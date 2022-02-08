@@ -39,13 +39,13 @@ main .tabuleiro{
 	height: 100%;
 }
 .casa.o::after{
-	background: url(..assets/img/circle.png);
+	background: url(../image/circle.png);
 	background-size: 60%;
 	background-position: center;
 	background-repeat: no-repeat;
 }
 .casa.x::after{
-	background: url(..assets/img/remove.png);
+	background: url(../image/time.png);
 	background-size: 60%;
 	background-position: center;
 	background-repeat: no-repeat;
