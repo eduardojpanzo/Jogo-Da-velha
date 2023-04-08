@@ -1,10 +1,20 @@
 # Jogo-Da-velha
-contrução de um jogo da velha em JS
+  * Consite em um jogo de dois jogadores em que o primeiro a completar uma sequência de 3 x ou o, vence.
 
-Arquivos html e css e js, que farão funcionar um jogo da velha
+### 🚀 Funcionalidade
+  * Determinar um vncedor
+  * Determinar o derrotado
+  * Determina Empate
+  * Acomular pontos para o vencedor
+  * Zerar a potuação dos participantes
+  
+### 🧪 Tecnologias usadas
+  * html
+  * css
+  * javasript
 
-Competição entre dois player
-
-Tendo a possibilidade de empate vitória e derrota
-
-Conta e incrementa os pontos de um usuario
+### 💻 Disposetivos:
+  * Browser ou navgador
+  
+## Visite:
+ https://eduardopanzo.github.io/Jogo-Da-velha/
